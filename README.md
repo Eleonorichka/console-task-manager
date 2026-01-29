@@ -48,6 +48,6 @@ for a GitHub portfolio.
 ## Author
 Eleonora Topal
 
-=======
+
 # console-task-manager
 Console Task Manager in Python for GitHub portfolio
