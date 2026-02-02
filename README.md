@@ -25,12 +25,12 @@ and data persistence using JSON.
 Tasks are stored locally in a JSON file ('tasks.json'). All changes are automatically saved, and tasks are restored on program start.
 
 ##  Project Structure
-task_manager/
-├── task.py
-├── task_manager.py
-├── main.py
-├── tasks.json
-└── README.md
+task_manager
+- task.py
+- task_manager.py
+- main.py
+- tasks.json
+- README.md
 
 ## How to Run
 1. Clone the repository:
